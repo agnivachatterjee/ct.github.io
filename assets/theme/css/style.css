@@ -1,7 +1,4 @@
-/*!
- * Mobirise v4 theme (https://mobirise.com/)
- * Copyright 2017 Mobirise
- */
+
 section {
   background-color: #eeeeee;
 }
@@ -871,6 +868,7 @@ input[type='range'] {
 
 .carousel-item {
   text-align: center;
+  padding-top: 200px !important;
 }
 
 .carousel-item img {
